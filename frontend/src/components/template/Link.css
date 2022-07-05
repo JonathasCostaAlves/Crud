@@ -1,0 +1,36 @@
+.menu a{
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 300;
+    padding: 15px;
+    transition: all .2s;
+}
+
+.menu a:hover{
+    background: linear-gradient(135deg, #07a7e3 0%, #32dac3);
+    font-weight: 400;
+}
+.menu i{
+    padding: 0px 5px;
+}
+
+@media(max-width:768px){
+    .menu {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .menu a{
+        display: inline;
+        padding: 10px;
+        margin:0px
+    }
+    .menu{
+        height: 100%;
+        justify-content: space-around;
+
+    }
+    
+}
+
