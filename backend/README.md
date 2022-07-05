@@ -50,9 +50,8 @@ $ npm install
 ```bash
 $ npm start
 ```
-Vai parecer essa mensagem no terminal.
  
-
+Caso o browser não inicie automaticamente, basta acessar http://localhost:3001
  
 Agora sim tudo pronto!
  
@@ -87,7 +86,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
 </br></br>
  
-<a href="https://www.instagram.com/jonathascostadev/" >
+<a href="https://www.linkedin.com/in/jonathas-costa-a9844ab1/" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
  
 </a>
