@@ -91,7 +91,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  
 </a>
  
-<a href="https://www.linkedin.com/in/jonathas-costa-86210a21a/" >
+<a href="https://www.linkedin.com/in/jonathas-costa-a9844ab1/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  
 </a>

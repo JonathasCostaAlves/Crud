@@ -1,4 +1,4 @@
-# Sistema de cadastro em React JS (Frontend)
+# Sistema de cadastro em React JS (Backend)
 ![Demo](./screenshots/banner-frontend.png)
  
  
